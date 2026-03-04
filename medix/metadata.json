@@ -1,0 +1,5 @@
+{
+  "name": "MediX",
+  "description": "AI-powered educational platform for NEET/JEE coaching. Extract questions from PDFs, manage question banks, and generate digital tests with real-time analytics.",
+  "requestFramePermissions": []
+}
